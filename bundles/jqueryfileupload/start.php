@@ -1,8 +1,7 @@
 <?php
 /*
- *
- * Plugin from
- * https://github.com/blueimp/jQuery-File-Upload
+ * jQueryFileUpload Bundle for Laravel
+ * https://github.com/boparaiamrit/laravel-jqueryfileupload
  *
  * Copyright 2010, Sebastian Tschan
  * https://blueimp.net
